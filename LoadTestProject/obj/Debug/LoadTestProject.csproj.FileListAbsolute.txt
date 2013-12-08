@@ -1,0 +1,7 @@
+c:\users\torus\documents\visual studio 2012\Projects\WebTesting\LoadTestProject\LoadTestProject\bin\Debug\LoadTestProject.dll
+c:\users\torus\documents\visual studio 2012\Projects\WebTesting\LoadTestProject\LoadTestProject\bin\Debug\LoadTestProject.pdb
+c:\users\torus\documents\visual studio 2012\Projects\WebTesting\LoadTestProject\LoadTestProject\obj\Debug\LoadTestProject.dll
+c:\users\torus\documents\visual studio 2012\Projects\WebTesting\LoadTestProject\LoadTestProject\obj\Debug\LoadTestProject.pdb
+c:\users\torus\documents\visual studio 2012\Projects\WebTesting\LoadTestProject\LoadTestProject\obj\Debug\LoadTestProject.csprojResolveAssemblyReference.cache
+c:\users\torus\documents\visual studio 2012\Projects\WebTesting\LoadTestProject\LoadTestProject\bin\Debug\MemorySamplingTest.webtest
+c:\users\torus\documents\visual studio 2012\Projects\WebTesting\LoadTestProject\LoadTestProject\bin\Debug\CpuSamplingTest.webtest
